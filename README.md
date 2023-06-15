@@ -26,6 +26,7 @@ Hello, Friends, My name is Muhammad Farrel Rizqullah from Sidoarjo. I am now a P
 
 
 ## Thank you for visiting my profile
+terimakasih, maturnuwun, merci, gracias, danke, grazie, obrigado, mam’noon, dhanyavaad, xièxiè, shukraan, arigato, khàawp-khun, ngiyabonga, ahéhee’, mālō, dankon
 
 ![Alt Text](https://media.giphy.com/media/11ISwbgCxEzMyY/giphy.gif)
 
