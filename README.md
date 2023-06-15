@@ -2,7 +2,7 @@
 
 Hello, Friends, My name is Muhammad Farrel Rizqullah from Sidoarjo. I am now a Politeknik Negeri Malang student majoring in information technology, informatics engineering study program.
 
-![Alt Text](https://media.giphy.com/media/GeimqsH0TLDt4tScGw/giphy.gif)
+![Alt Text](https://media.giphy.com/media/a5viI92PAF89q/giphy.gif)
 
 ### 📫 How to reach me:
 
