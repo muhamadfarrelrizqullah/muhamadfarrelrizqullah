@@ -4,11 +4,6 @@ Hello Friends, My name is Muhammad Farrel Rizqullah from Sidoarjo. I am now a Po
 
 ![Alt Text](https://media.giphy.com/media/rY93u9tQbybks/giphy.gif)
 
-### 📫 How to reach me:
-
-  - [linkedin]( https://www.linkedin.com/in/muhamad-farrel-rizqullah-972037221/ )
-  - [email](mailto:mohammadfarrelrisqullah@gmail.com)
-
 ### 📚 Quotes:
 
 > “Life can be wonderful if you're not afraid of it. All it needs is courage, imagination ... and a little dough.” Calvero (Charles Chaplin) says this to Terry (Claire Bloom) in Limelight (1952).
