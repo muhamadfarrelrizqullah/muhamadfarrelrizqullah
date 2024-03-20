@@ -12,12 +12,17 @@ Hello Friends, My name is Muhammad Farrel Rizqullah from Sidoarjo. I am now a Po
 
 > “Laughter is the tonic, the relief, the surcease from pain.”From “Mr. Chaplin Answers His Critics”; The Comedian Defends His Ending of ‘The Great Dictator’ by Charles Chaplin, The New York Times, 27 October 1940.
 
-![Alt Text](https://media.giphy.com/media/cN4QlPgacB1h6/giphy.gif)
-
-
-## Thank you for visiting my profile
-
-terimakasih, maturnuwun, merci, gracias, danke, grazie, obrigado, mam’noon, dhanyavaad, xièxiè, shukraan, arigato, khàawp-khun, ngiyabonga, ahéhee’, mālō, dankon
-
 ![Alt Text](https://media.giphy.com/media/AikqU9c8gOamzodpfP/giphy.gif)
+
+
+## Github Statistic
+
+<p align="left">
+<a href="https://github.com/muhamadfarrelrizqullah">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=muhamadfarrelrizqullah&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=muhamadfarrelrizqullah&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
+
+
 
