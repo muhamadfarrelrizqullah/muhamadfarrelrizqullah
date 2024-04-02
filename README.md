@@ -15,14 +15,9 @@ Hello Friends, My name is Muhammad Farrel Rizqullah from Sidoarjo. I am now a Po
 ![Alt Text](https://media.giphy.com/media/AikqU9c8gOamzodpfP/giphy.gif)
 
 
-## Github Statistic
+## ⚡️ Github Statistic:
 
-<p align="left">
-<a href="https://github.com/muhamadfarrelrizqullah">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=muhamadfarrelrizqullah&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=muhamadfarrelrizqullah&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
+[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=muhamadfarrelrizqullah&theme=tokyo-night&custom_title=Farrel%20Activity%20Graph&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 
