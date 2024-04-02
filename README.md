@@ -1,8 +1,10 @@
 # Welcome To My Profile 👋
 
-Hello Friends, My name is Muhammad Farrel Rizqullah from Sidoarjo. I am now a Politeknik Negeri Malang student majoring in information technology, informatics engineering study program.
+<div align="center">
+  <img src="https://github.com/muhamadfarrelrizqullah/muhamadfarrelrizqullah/blob/main/img/head.png" width="2000">
+</div>
 
-![Alt Text](https://media.giphy.com/media/rY93u9tQbybks/giphy.gif)
+Hello Friends! 🌟 Welcome to my corner of the internet. My name is Muhammad Farrel Rizqullah, hailing from Sidoarjo. Currently, I'm pursuing my passion for technology as a student majoring in information technology at Politeknik Negeri Malang. With a fervent love for frontend web development, I craft digital experiences that captivate and inspire. Let's embark on this journey together and build something extraordinary! ✨
 
 ### 📚 Quotes:
 
@@ -12,7 +14,10 @@ Hello Friends, My name is Muhammad Farrel Rizqullah from Sidoarjo. I am now a Po
 
 > “Laughter is the tonic, the relief, the surcease from pain.”From “Mr. Chaplin Answers His Critics”; The Comedian Defends His Ending of ‘The Great Dictator’ by Charles Chaplin, The New York Times, 27 October 1940.
 
-![Alt Text](https://media.giphy.com/media/AikqU9c8gOamzodpfP/giphy.gif)
+<div align="center">
+  <img src="https://media.giphy.com/media/3ohuAeNbhmgmsRLLCU/giphy.gif" width="900">
+</div>
+
 
 
 ## ⚡️ Github Statistic:
