@@ -15,9 +15,6 @@ Hello Friends! 🌟 Welcome to my corner of the internet. My name is Muhamad Far
 
 > “Laughter is the tonic, the relief, the surcease from pain.”From “Mr. Chaplin Answers His Critics”; The Comedian Defends His Ending of ‘The Great Dictator’ by Charles Chaplin, The New York Times, 27 October 1940.
 
-<div align="center">
-  <img src="https://github.com/muhamadfarrelrizqullah/muhamadfarrelrizqullah/blob/main/img/cool.gif" width="2000">
-</div>
 
 
 
